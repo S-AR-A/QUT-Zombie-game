@@ -1,0 +1,11 @@
+*
+!Assets/
+!Assets/Scripts/
+!Assets/Scripts/*.cs
+!Assets/Real world images/
+!Assets/Real world images/*
+!Assets/mats/
+!Assets/mats/*jpg
+!Assets/mats/*png
+!.gitignore
+
