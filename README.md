@@ -1,5 +1,9 @@
 # QUT Zombie game
+<<<<<<< HEAD
 It's a simulation of the most busy spot in Qom University of Technology in the terror genre with original and funny zombie sounds(just for fun).
+=======
+It's a simulation of the busiest spot in Qom University of Technology in the Horror genre with original and funny zombie sounds(just for fun).
+>>>>>>> c9aa38f (Update README.md)
 sorry for the UNCLEANLINESS of scripts, I do better now.
 # Features
 * Healthbar
