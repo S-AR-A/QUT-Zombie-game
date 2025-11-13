@@ -21,7 +21,7 @@ A score-based mode; Player starts on the center of the map and zombies spawn fro
 
 
 ### **2.Day(Morning) mode**
-No zombies. Player can roam the map in daylight and see the Frozen zombie models.
+No zombies. Player can roam the map in daylight and see the frozen zombie models.
 
 ![night image 3](Assets/GameplayImages/d1.png)
 
