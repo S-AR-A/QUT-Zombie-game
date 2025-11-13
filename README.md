@@ -45,7 +45,8 @@ No zombies. Player can roam the map in daylight and see the frozen zombie models
 
 # The Whole Project?
 Because of the huge size of the project, the scripts are committed only.
-# How to Install
-Download link is in Releases.
+# How to Play
+Here is the portable version:
+https://drive.google.com/file/d/1RoRINkV1sP6FshsTb5bnbFuh4CoGYSz-/view?usp=drive_link
 ## License
 This project is licensed under the [MIT License](LICENSE).
