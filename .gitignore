@@ -4,6 +4,8 @@
 !Assets/Scripts/*.cs
 !Assets/Real world images/
 !Assets/Real world images/*
+!Assets/Gameplay Images/
+!Assets/Gameplay Images/*
 !Assets/mats/
 !Assets/mats/*jpg
 !Assets/mats/*png
